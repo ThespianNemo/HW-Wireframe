@@ -80,7 +80,7 @@ body {
     margin-right: 1px;
     margin-left: 1px;
 }
-
+/* Affects all elements positioned on right side of screen */
 .aside {
     float: left;
     background-color: #ebebeb;
@@ -93,7 +93,7 @@ body {
     margin-right: 10px;
     margin-left: 1px;
     }
-
+/* Affects all elements positioned on the bottom of screen */
 .Footnote {
         margin: 0 auto;
         }
